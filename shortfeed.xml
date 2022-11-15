@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>It's Pretty OK</title>
+		<link>http://www.prettyokpod.com/</link>
+		<copyright>&#169; 2022 It's Pretty OK</copyright>
+		<language>en-us</language>
+		<itunes:author>It's Pretty OK</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:type>episodic</itunes:type>
+		<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"></itunes:image>
+		<description>Why don’t more bars serve beer in pitchers? How do you pick a song for karaoke? What does the word “home” mean to you?<br>Those questions range from silly to serious, but if you’ve ever pondered the answers to all three in a single day, you’re not alone. Pour yourself a cup of coffee, crack a 40, or anything in between, and join the gang here at It’s Pretty OK as we attempt to answer these questions and many more. We promise it won’t be boring.</description>
+		<itunes:keywords>millennials,life,it's pretty ok</itunes:keywords>
+		<itunes:summary>Why don’t more bars serve beer in pitchers? How do you pick a song for karaoke? What does the word “home” mean to you?<br>Those questions range from silly to serious, but if you’ve ever pondered the answers to all three in a single day, you’re not alone. Pour yourself a cup of coffee, crack a 40, or anything in between, and join the gang here at It’s Pretty OK as we attempt to answer these questions and many more. We promise it won’t be boring.</itunes:summary>
+		<itunes:subtitle>Why don’t more bars serve beer in pitchers? How do you pick a song for karaoke? What does the word “home” mean to you? Those questions range from silly to serious, but if you’ve ever pondered the answers to all three in a single day, you’re not alone.</itunes:subtitle>
+		<itunes:category text="Society & Culture"/>
+		<itunes:owner>
+			<itunes:email>itsprettyok@gmail.com</itunes:email>
+			<itunes:name>It's Pretty OK</itunes:name>
+		</itunes:owner>
+
+		<item>
+<title>Ep. 345: Lackluster Video</title>
+<pubDate>11 Nov 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep345_dvds.mp3</link>
+<guid isPermalink="false">ep345_dvds</guid>
+<description>Wait, did they say DVDs?</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:42:20</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>345</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep345_dvds.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep345_dvds.mp3"/>
+<itunes:subtitle>Wait, did they say DVDs?</itunes:subtitle>
+<itunes:summary>This week, the gang is together to talk about collections of physical media — especially DVDs. Strap in!MUSIC: “Training Montage” – The Mountain Goats</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 344: DRAFT TALK</title>
+<pubDate>02 Nov 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep344_draftnostalgia.mp3</link>
+<guid isPermalink="false">ep344_draftnostalgia</guid>
+<description>The annual moment when you think “maybe this year will be different!”</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:42:49</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>344</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep344_draftnostalgia.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep344_draftnostalgia.mp3"/>
+<itunes:subtitle>The annual moment when you think “maybe this year will be different!”</itunes:subtitle>
+<itunes:summary>With Max off the board this week, the rest of the gang gets together to talk about why sports drafts — the NBA draft in particular — hold such a strong allure.MUSIC: “Silk Chiffon (feat. Phoebe Bridgers)” – MUNA</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 343: FOURTHPOD</title>
+<pubDate>25 Oct 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep343_tacobell.mp3</link>
+<guid isPermalink="false">ep343_tacobell</guid>
+<description>Whatever it is, let’s taco bout it</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:41:43</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>343</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep343_tacobell.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep343_tacobell.mp3"/>
+<itunes:subtitle>Whatever it is, let’s taco bout it</itunes:subtitle>
+<itunes:summary>Whatever it is, let’s taco bout it</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 342: Hot Tub Pod Machine</title>
+<pubDate>17 Oct 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep342_hottub.mp3</link>
+<guid isPermalink="false">ep342_hottub</guid>
+<description>A conversation that’s been simmering for a while</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:45:41</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>342</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep342_hottub.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep342_hottub.mp3"/>
+<itunes:subtitle>A conversation that’s been simmering for a while</itunes:subtitle>
+<itunes:summary>This week, the gang gets together to discuss hot tubs, which Sean derisively refers to at one point as “human broth” but which were a fairly significant part of Max’s search for a new place to live. I feel like that’s probably enough for you to know in order to decide whether or not this episode is for you&nbsp;— not unlike hot tubs themselves.MUSIC: “Always Rhyme” – Homeboy Sandman</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 341: Choosy Cooks Choose...</title>
+<pubDate>10 Oct 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep341_homecooking.mp3</link>
+<guid isPermalink="false">ep341_homecooking</guid>
+<description>What we cook when we cook at home</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:35:49</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>341</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep341_homecooking.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep341_homecooking.mp3"/>
+<itunes:subtitle>What we cook when we cook at home</itunes:subtitle>
+<itunes:summary>Sean is gone this week for a reason that may or may not have something to do with Hard Mountain Dew, but that’s not going to stop the rest of the gang from convening to talk about cooking routines. What are the things that you make a point of only eating out at restaurants (or things that you only eat at home)? And can trying cooking some of those things at home ruin the special-ness of the restaurant occasion?MUSIC: “Easy On Your Own” – Alvvays</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 340: Where Have All the Rivalries Gone?</title>
+<pubDate>03 Oct 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep340_rivalries.mp3</link>
+<guid isPermalink="false">ep340_rivalries</guid>
+<description>What makes the bitterest feuds in sports so great?</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:39:13</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>340</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep340_rivalries.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep340_rivalries.mp3"/>
+<itunes:subtitle>What makes the bitterest feuds in sports so great?</itunes:subtitle>
+<itunes:summary>This week, the gang gets together to discuss whether the sports rivalry is still alive and well, particularly in professional sports in the U.S. How much of the seeming fade of these bitter rivalries is due to changing attitudes among new generations, and how much is dumb stuff like fantasy football and the ubiquity of legal sports gambling? And why do the greatest sports rivalries often have so little to do with sports themselves?MUSIC: “TV Will Always Make Me Cry” – Alien Boy</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 339: BEDtv</title>
+<pubDate>27 Sep 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep339_bedroomtv.mp3</link>
+<guid isPermalink="false">ep339_bedroomtv</guid>
+<description>To tube or not to tube, that is the question</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:41:27</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>339</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep339_bedroomtv.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep339_bedroomtv.mp3"/>
+<itunes:subtitle>To tube or not to tube, that is the question</itunes:subtitle>
+<itunes:summary>This week, the gang talks about putting (or not putting) a TV in your bedroom. What goes into that momentous decision? Also, Sean gets irrationally angry about an audiobook he listened to, and as always, Pierce apologizes.MUSIC: “Hurricanes and Hand Grenades” – Jason Isbell</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 338: College GamePod</title>
+<pubDate>19 Sep 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep338_pregameshows.mp3</link>
+<guid isPermalink="false">ep338_pregameshows</guid>
+<description>Talking about all the pregame talking</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:39:26</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>338</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep338_pregameshows.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep338_pregameshows.mp3"/>
+<itunes:subtitle>Talking about all the pregame talking</itunes:subtitle>
+<itunes:summary>This week, the Sports Bois™ convene to talk about the phenomenon of pregame shows, particularly for football. Two important notes:1) This was recorded before College GameDay actually went to Boone, NC, which produced (among other things) this phenomenal intro video voiced by Wright Thompson.2) Thanks to frustrating Skype connection stuff, the crosstalk/awkward pause conundrum is worse than usual!MUSIC: “Let Us Die“ – King Princess</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 337: An Honest LIV-ing</title>
+<pubDate>06 Sep 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep337_livgolf.mp3</link>
+<guid isPermalink="false">ep337_livgolf</guid>
+<description>Talking sportswashing and whatnot</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:42:06</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>337</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep337_livgolf.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep337_livgolf.mp3"/>
+<itunes:subtitle>Talking sportswashing and whatnot</itunes:subtitle>
+<itunes:summary>This week, the gang gets together to talk about the ways that the sports industry is changing, especially the introduction of Saudi oil money in the form of the new LIV Golf tour. And we get the most harrowing edition of “Pierce Is Sorry” yet.MUSIC: “9 to 5” – Dolly Parton</itunes:summary>
+</item>
+
+<item>
+<title>Ep. 336: Sight Unseen</title>
+<pubDate>28 Aug 2022 0:00</pubDate>
+<link>https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep336_movingremote.mp3</link>
+<guid isPermalink="false">ep336_movingremote</guid>
+<description>Dealing with moving when you can’t see the place in person</description>
+<itunes:author>It's Pretty OK</itunes:author>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:duration>00:39:40</itunes:duration>
+<itunes:image href="https://github.com/smcgoey/prettyokpod/blob/84d786cf3d3d3eed9db7fda2833f8faa3fe9208c/assets/itsprettyok.png"/>
+<itunes:episode>336</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<enclosure type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep336_movingremote.mp3"/>
+<media:content isDefault="true" medium="audio" type="audio/mpeg" url="https://raw.githubusercontent.com/smcgoey/prettyokpod/main/episodes/ep336_movingremote.mp3"/>
+<itunes:subtitle>Dealing with moving when you can’t see the place in person</itunes:subtitle>
+<itunes:summary>This week, the gang gets together to talk about a phenomenon they’ve all experienced in the last two years: the remote house tour.MUSIC: “Hangover Song” – MJ Lenderman</itunes:summary>
+</item>
+
+	</channel>
+</rss>
