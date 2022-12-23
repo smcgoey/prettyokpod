@@ -1,7 +1,4 @@
-# prettyokpod
-the new internet home of the It's Pretty OK Podcast
-
-## A quick hello from It's Pretty OK
+# A quick hello from It's Pretty OK
 
 ### *December 23, 2022*
 
