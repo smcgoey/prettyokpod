@@ -1,0 +1,7 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: It's Pretty OK
+logo: https://github.com/smcgoey/prettyokpod/raw/main/assets/itsprettyok.png
+author: Sean McGoey, Pierce Bishop, Kevin Linger, and Max Handler
+description: Solving the paradoxes of the world since 2016
