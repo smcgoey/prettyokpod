@@ -3,5 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: It's Pretty OK
 logo: https://github.com/smcgoey/prettyokpod/raw/main/assets/itsprettyok.png
+favicon: https://github.com/smcgoey/prettyokpod/raw/main/assets/prettyokpod_icon.png
 author: Sean McGoey, Pierce Bishop, Kevin Linger, and Max Handler
 description: Solving the paradoxes of the world since 2016
